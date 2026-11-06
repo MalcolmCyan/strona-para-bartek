@@ -3,4 +3,4 @@
 ## Autor
 Imię: Bartek Ganszczyk
 Klasa: 4P
-Partner (login): MalcolmCyan
+Partner (login): MalcolmCyan !
